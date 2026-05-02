@@ -12,3 +12,10 @@ dist/
 *.db
 __pycache__/
 
+build/
+dist/
+*.spec
+*.app
+*.db
+__pycache__/
+
